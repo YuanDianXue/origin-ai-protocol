@@ -1,0 +1,17 @@
+{
+  "name": "原点学 AI 运算协议",
+  "english_name": "Origin Theory AI Protocol",
+  "version": "0.1",
+  "status": "prototype",
+  "artifact_type": "natural-language-protocol",
+  "reference_language": "zh-CN",
+  "protocol_path": "protocols/0.1/protocol.zh-CN.md",
+  "protocol_sha256": "3ffe157dad25513f7387c1db2fafa55fe5b7dadaad5958c79b98d031b8b7af75",
+  "usage_path": "USAGE.md",
+  "example_paths": [
+    "examples/stop-and-resume.zh-CN.md"
+  ],
+  "executable": false,
+  "independent_validation": "not_provided",
+  "license": "not_specified"
+}
